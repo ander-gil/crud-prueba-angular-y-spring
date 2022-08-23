@@ -27,11 +27,11 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfo(
-                "CRUD",
+                "CRUD Ander",
                 "CRUD aplicación",
                 "v1",
                 "Terms of service",
-                new Contact("SACAViX Tech", "www.ander.com", "anderson.gil@correounivalle.edu.co"),
+                new Contact("Ander Tech", "www.ander.com", "anderson.gil@correounivalle.edu.co"),
                 "License of API", "API license URL", Collections.emptyList());
     }
 }
